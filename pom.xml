@@ -102,7 +102,7 @@
 		<profile>
 			<id>release</id>
 			<build>
-				<!-- Configuration needed to deploy at Central: http://central.sonatype.org/pages/ossrh-guide.html 
+				<!-- vai galera Configuration needed to deploy at Central: http://central.sonatype.org/pages/ossrh-guide.html 
 					http://central.sonatype.org/pages/apache-maven.html -->
 				<plugins>
 					<!-- Generate the sources JAR -->
